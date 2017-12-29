@@ -5,5 +5,17 @@
   "main": "index.js",
   "author": "Jorge Zamit - jzamit@gmail.com",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "appium": "^1.7.1",
+    "babel-jest": "^22.0.4",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "^22.0.4",
+    "react-test-renderer": "^16.2.0",
+    "wd": "^1.5.0"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.51.0"
+  }
 }

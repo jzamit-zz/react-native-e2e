@@ -1,0 +1,22 @@
+.env
+msj.iml
+coverage/
+.idea
+IlluminatedCloud
+.sfdx
+node_modules
+*.sublime*
+
+# Compiled Files
+msj/main/common/staticresources/*.resource
+
+# Logs
+test/log
+npm-debug.log*
+.screenshots/
+
+# System Files
+.DS_Store
+
+# VSCode Files
+.vscode/settings.json

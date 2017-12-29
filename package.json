@@ -1,0 +1,9 @@
+{
+  "name": "react-native-test-scratch",
+  "version": "1.0.0",
+  "description": "Project made for testing react native mobile apps",
+  "main": "index.js",
+  "author": "Jorge Zamit - jzamit@gmail.com",
+  "license": "MIT",
+  "private": true
+}
